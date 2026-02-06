@@ -1,0 +1,29 @@
+# Visual Studio temp
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.aps
+*.9.0.res
+*.suo
+*.cache
+*.dtb
+*.opendb
+*.db
+*.ipch
+
+# Build Results
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+
+# etc
+*.log
+*.tlog
+*.lastbuildstate
